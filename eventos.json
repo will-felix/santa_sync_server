@@ -1,0 +1,71 @@
+[
+  {
+    "serial_num": "DEAFE33453R4",
+    "events": [
+      {
+        "file_path": "/Applications/Google Chrome.app",
+        "execution_time": "2024-04-26T15:00:00Z",
+        "decision": "ALLOW",
+        "sha256": "fjkdashndfjkandj"
+      }
+    ]
+  },
+  {
+    "serial_num": "DEAFE33453R4",
+    "events": [
+      {
+        "file_path": "/Applications/Google Chrome.app",
+        "execution_time": "2024-04-26T15:00:00Z",
+        "decision": "ALLOW",
+        "sha256": "fjkdashndfjkandj"
+      }
+    ]
+  },
+  {
+    "serial_num": "DEAFE33453R4",
+    "events": [
+      {
+        "file_path": "/Applications/Google Chrome.app",
+        "execution_time": "2024-04-26T15:00:00Z",
+        "decision": "ALLOW",
+        "sha256": "fjkdashndfjkandj"
+      }
+    ]
+  },
+  {
+    "serial_num": "DEAFE33453R4",
+    "events": [
+      {
+        "file_path": "/Applications/Google Chrome.app",
+        "execution_time": "2024-04-26T15:00:00Z",
+        "decision": "ALLOW",
+        "sha256": "fjkdashndfjkandj"
+      }
+    ]
+  },
+  {
+    "serial_num": "DEAFE33453R4",
+    "events": [
+      {
+        "file_path": "/Applications/ VirtualBox.app",
+        "execution_time": "2024-04-26T15:00:00Z",
+        "decision": "BLOCK",
+        "sha256": "daskljfkaldsjfa"
+      }
+    ]
+  }
+]{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/ VirtualBox.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "BLOCK", "sha256": "daskljfkaldsjfa"}}
+{"serial_num": null, "event": {"file_path": "/Applications/ VirtualBox.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "BLOCK", "sha256": "daskljfkaldsjfa"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
+{"serial_num": null, "event": {"file_path": "/Applications/Google Chrome.app", "execution_time": "2024-04-26T15:00:00Z", "decision": "ALLOW", "sha256": "fjkdashndfjkandj"}}
